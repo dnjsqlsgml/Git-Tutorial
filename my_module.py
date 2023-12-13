@@ -8,4 +8,8 @@ def mul(a, b):
 	return a * b
 
 def div(a, b):
+<<<<<<< HEAD
 	return a // b
+=======
+	return a // b #주석
+>>>>>>> develop
